@@ -1,0 +1,435 @@
+E:/Core/Integer-Unit.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Integer-Unit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IntegerUnit
+-- Compiling architecture intUnit of IntegerUnit
+-- Loading entity fulladder32b
+-- Loading entity Multiplier
+-- Loading entity Divider
+-- Loading entity comparator
+-- Loading entity logicalOperator
+-- Loading entity Shifter
+-- Loading entity IntegerController
+-- Loading entity Mux8x1_32b
+-- Compiling entity int_tb
+-- Compiling architecture iii of int_tb
+-- Loading entity IntegerUnit
+
+} {} {}} E:/Core/Shift-Registers.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Shift-Registers.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shiftRegister
+-- Compiling architecture shreg1 of shiftRegister
+-- Compiling architecture shreg2 of shiftRegister
+-- Loading entity shiftRegister
+-- Compiling architecture slreg1 of shiftRegister
+-- Loading entity shiftRegister
+-- Compiling architecture slreg2 of shiftRegister
+-- Loading entity shiftRegister
+
+} {} {}} E:/Core/ResStation.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/ResStation.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ReservationStation
+-- Compiling architecture resStat of ReservationStation
+-- Compiling entity ReservationStation_tb
+-- Compiling architecture res_arch of ReservationStation_tb
+-- Loading entity ReservationStation
+
+} {} {}} {E:/Core/Logical Operation.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Core/Logical Operation.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity logicalOperator
+-- Compiling architecture logOp of logicalOperator
+
+} {} {}} E:/Core/IncrementDecrement.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/IncrementDecrement.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IncrementDecrement
+-- Compiling architecture id of IncrementDecrement
+
+} {} {}} E:/Core/decoder2x4.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/decoder2x4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder2x4
+-- Compiling architecture dec2x4 of decoder2x4
+
+} {} {}} E:/Core/Shifter.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Shifter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Shifter
+-- Compiling architecture sh of shifter
+-- Compiling architecture shA of shifter
+-- Loading entity Shifter
+
+} {} {}} E:/Core/rw_4x4_async.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/rw_4x4_async.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rw_4x4_async
+-- Compiling architecture rw_4x4_async_arch of rw_4x4_async
+-- Compiling entity rw_4x4_async_TB
+-- Compiling architecture rw_4x4_async_TB_arch of rw_4x4_async_TB
+
+} {} {}} {E:/Core/Reorder Buffer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Core/Reorder Buffer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rob_buffer
+-- Compiling architecture behavioral of rob_buffer
+-- Compiling entity tb_rob_buffer
+-- Compiling architecture sim of tb_rob_buffer
+-- Loading entity rob_buffer
+
+} {} {}} E:/Core/Multiplexer32b2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Multiplexer32b2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladdermultiplexer2x1
+-- Compiling architecture famux of fulladdermultiplexer2x1
+-- Compiling entity predictedMultiplexer
+-- Compiling architecture predMux of predictedMultiplexer
+
+} {} {}} E:/Core/Multiplexer_32b_32x1.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Multiplexer_32b_32x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package array_pkg
+-- Compiling entity multiplexer32x1
+-- Compiling architecture mux32x1 of multiplexer32x1
+-- Loading entity Mux8x1_32b
+-- Loading entity multiplexer4x1
+
+} {} {}} E:/Core/FP-Adders.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/FP-Adders.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity FloatingPointAdder
+-- Compiling architecture fpadder of FloatingPointAdder
+-- Loading entity multiplexer2x1
+-- Loading entity nadder
+-- Loading entity ExponentDifference
+-- Loading entity Shifter
+-- Loading package MATH_REAL
+-- Loading entity floatingPointAdderController
+-- Loading entity IncrementDecrement
+-- Compiling entity fp_tb
+-- Compiling architecture fp_arch_tb of fp_tb
+-- Loading entity FloatingPointAdder
+
+} {} {}} E:/Core/Divider.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Divider.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Divider
+-- Compiling architecture div of Divider
+-- Loading entity DividerControler
+-- Loading entity fulladdermultiplexer2x1
+-- Loading entity fulladder32b
+-- Loading entity shiftRegister
+-- Loading entity comparator
+-- Compiling entity div_tb
+-- Compiling architecture divv_tb of div_tb
+-- Loading entity Divider
+
+} {} {}} E:/Core/FP-Adders-Controller.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/FP-Adders-Controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity floatingPointAdderController
+-- Compiling architecture fpaController of floatingPointAdderController
+-- Compiling entity fpadc_tb
+-- Compiling architecture fpad_tb of fpadc_tb
+-- Loading entity floatingPointAdderController
+
+} {} {}} E:/Core/Multiplier.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Multiplier.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Multiplier
+-- Compiling architecture mul of Multiplier
+-- Loading entity multiplierControl
+-- Loading package NUMERIC_STD
+-- Loading entity shiftRegister
+-- Loading entity fulladder32b
+-- Loading entity predictedMultiplexer
+-- Compiling architecture mantMul of Multiplier
+-- Loading entity Multiplier
+-- Loading entity serialfulladder
+-- Compiling entity mul_tb
+-- Compiling architecture m_tb of mul_tb
+-- Loading entity Multiplier
+
+} {} {}} {E:/Core/Register Alias Table.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Core/Register Alias Table.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RAT
+-- Compiling architecture Behavioral of RAT
+
+} {} {}} E:/Core/decoder5x32.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/decoder5x32.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package array_pkg
+-- Compiling entity decoder5x32
+-- Compiling architecture dec5x32 of decoder5x32
+-- Loading entity decoder2x4
+-- Loading entity decoder3x8
+-- Compiling entity tb_decoder5x32
+-- Compiling architecture behavior of tb_decoder5x32
+
+} {} {}} E:/Core/Comparator.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Comparator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity comparator
+-- Compiling architecture comp of comparator
+-- Compiling architecture compu of comparator
+-- Loading entity comparator
+
+} {} {}} E:/Core/Floating-Point-Multiplier-Controller.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Floating-Point-Multiplier-Controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FPMultiplierControler
+-- Compiling architecture fpMc of FPMultiplierControler
+-- Compiling entity tb_FPMultiplierControler
+-- Compiling architecture behavior of tb_FPMultiplierControler
+-- Loading entity FPMultiplierControler
+
+} {} {}} E:/Core/Exponent-Difference.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Exponent-Difference.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ExponentDifference
+-- Compiling architecture ed of exponentDifference
+
+} {} {}} E:/Core/decoder3x8.vhd {2 {vcom -work work -2002 -explicit -stats=none E:/Core/decoder3x8.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder3x8
+-- Compiling architecture dec3x8 of decoder3x8
+** Warning: E:/Core/decoder3x8.vhd(24): (vcom-1186) Array type selected signal assignment expression must be of a locally static subtype.
+
+} {} {}} E:/Core/full_adder.vhd {2 {vcom -work work -2002 -explicit -stats=none E:/Core/full_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture truth_table of full_adder
+** Warning: E:/Core/full_adder.vhd(13): (vcom-1186) Array type selected signal assignment expression must be of a locally static subtype.
+-- Compiling entity adder3b
+-- Compiling architecture struct of adder3b
+-- Loading entity full_adder
+-- Compiling entity adder_3b_tb
+-- Compiling architecture adder_3b_tb_arch of adder_3b_tb
+-- Loading entity adder3b
+** Warning: E:/Core/full_adder.vhd(76): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {E:/Core/and gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Core/and gate.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity andgate
+-- Compiling architecture andg of andgate
+
+} {} {}} E:/Core/32b-Adder.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/32b-Adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder32b
+-- Compiling architecture fa32b of fulladder32b
+-- Loading entity serialfulladder
+-- Loading entity fulladdermultiplexer2x1
+
+} {} {}} E:/Core/Integer-Unit-Controller.vhd {1 {vcom -work work -2008 -explicit -stats=none E:/Core/Integer-Unit-Controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IntegerController
+-- Compiling architecture intController of IntegerController
+-- Compiling entity int_cnt_tb
+-- Compiling architecture int_c_tb of int_cnt_tb
+-- Loading entity IntegerController
+
+} {} {}} E:/Core/N-Bit-Serial-Adder.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/N-Bit-Serial-Adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity serialfulladder
+-- Compiling architecture sfa of serialfulladder
+-- Loading entity fulladder
+
+} {} {}} {E:/Core/Common Data Bus.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Core/Common Data Bus.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cdb
+-- Compiling architecture cdb_arch of cdb
+-- Compiling entity cdb_tb
+-- Compiling architecture testbench of cdb_tb
+-- Loading entity cdb
+
+} {} {}} E:/Core/Multiplexer-32b-8x1.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Multiplexer-32b-8x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Mux8x1_32b
+-- Compiling architecture mx8x1_32b of Mux8x1_32b
+
+} {} {}} E:/Core/Multiplier-Control.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Multiplier-Control.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity multiplierControl
+-- Compiling architecture mc of multiplierControl
+-- Compiling entity mc_tb
+-- Compiling architecture mcc_tb of mc_tb
+-- Loading entity multiplierControl
+
+} {} {}} {E:/Core/Fifo Buffer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Core/Fifo Buffer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FIFO
+-- Compiling architecture buff of FIFO
+
+} {} {}} E:/Core/Multiplexer2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Multiplexer2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity multiplexer2x1
+-- Compiling architecture mux2x1 of multiplexer2x1
+
+} {} {}} E:/Core/Multiplexer32b_4x1.vhd {2 {vcom -work work -2002 -explicit -stats=none E:/Core/Multiplexer32b_4x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity multiplexer4x1
+-- Compiling architecture mux4x1 of multiplexer4x1
+** Warning: E:/Core/Multiplexer32b_4x1.vhd(22): (vcom-1186) Array type selected signal assignment expression must be of a locally static subtype.
+
+} {} {}} E:/Core/parallel_to_serial.vhd {2 {vcom -work work -2002 -explicit -stats=none E:/Core/parallel_to_serial.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity parallel_to_serial
+-- Compiling architecture struct of parallel_to_serial
+-- Compiling entity parralel_to_serial_tb
+-- Compiling architecture struct_tb of parralel_to_serial_tb
+-- Loading entity parallel_to_serial
+** Warning: E:/Core/parallel_to_serial.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} E:/Core/Floating-Point-Multiplier.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Floating-Point-Multiplier.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FloatingPointMultiplier
+-- Compiling architecture fpmull of FloatingPointMultiplier
+-- Loading entity nadder
+-- Loading entity Multiplier
+-- Loading entity FPMultiplierControler
+-- Loading package NUMERIC_STD
+-- Loading entity Shifter
+-- Compiling entity tb_FloatingPointMultiplier
+-- Compiling architecture behavior of tb_FloatingPointMultiplier
+-- Loading entity FloatingPointMultiplier
+
+} {} {}} E:/Core/N-Bit-Adder.vhd {1 {vcom -work work -2008 -explicit -stats=none E:/Core/N-Bit-Adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nadder
+-- Compiling architecture na of nadder
+-- Loading entity fulladder
+
+} {} {}} E:/Core/array_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/array_pkg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package array_pkg
+-- Compiling package body array_pkg
+-- Loading package array_pkg
+
+} {} {}} E:/Core/Divider-Controll.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Core/Divider-Controll.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DividerControler
+-- Compiling architecture dc of DividerControler
+
+} {} {}} E:/Core/OneBitAdder.vhd {2 {vcom -work work -2002 -explicit -stats=none E:/Core/OneBitAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+-- Compiling architecture fa of fulladder
+** Warning: E:/Core/OneBitAdder.vhd(10): (vcom-1186) Array type selected signal assignment expression must be of a locally static subtype.
+
+} {} {}}
